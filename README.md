@@ -20,4 +20,4 @@ We will continue to add more algorithms as and when we implement them.
 
 
 # Other Resources
-Details of setup have also been extensively documented [here](http://www.eyeshalfclosed.com/blog/2012/03/17/throwing-darts/).
+Extensive documentation is also available [here](http://www.eyeshalfclosed.com/blog/2012/03/17/throwing-darts/).
