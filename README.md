@@ -1,5 +1,5 @@
 # Distributed Message Queue Based Linux Cluster: Setup and Application
-This system was built as a weekend assignment for the Data Storage Technology and Networks course at [BITS - Pilani, KK Birla Goa Campus](http://universe.bits-pilani.ac.in/Goa/), under the guidance of Dr. Biju K. R.
+This system was built as a weekend assignment for the Data Storage Technology and Networks course at [BITS - Pilani, KK Birla Goa Campus](http://universe.bits-pilani.ac.in/Goa/), under the guidance of [Dr. Biju K. R](www.bits-goa.ac.in/Departments/Faculty/faculty%20pages/biju.htm).
 
 The documentation regarding setting up this cluster in the form of a report can be found in this repository. Also, we implemented some simple parallel algorithms on this cluster. Their code and documentation can also be found in this repository.
 
@@ -8,6 +8,7 @@ We plan to build a library of parallel computing algorithms for the benefit of s
 
 Till now, we have implemented these algorithms:
 1. [Distributed Estimation of Pi](https://github.com/emaadmanzoor/distributed-pi-estimation/)
+
 2. Matrix Multiplication
 
 We will continue to add more algorithms as we implement them.
