@@ -7,17 +7,16 @@ The documentation regarding setting up this cluster in the form of a report can 
 We plan to build a library of parallel computing algorithms for the benefit of students taking introductory parallel computing courses. As you will see, the setting up process for a beanstalkd cluster is simple and the application programs tiny.
 
 Till now, we have implemented these algorithms:
+
 1. [Distributed Estimation of Pi](https://github.com/emaadmanzoor/distributed-pi-estimation/)
 
 2. Matrix Multiplication
 
-We will continue to add more algorithms as we implement them.
+We will continue to add more algorithms as and when we implement them.
 
-# Team Members
-1. Emaad Ahmed Manzoor
-2. Rachee Singh
-3. Murtuza Kutub
-4. Mohit Yadav
+# Contributors
+1. Rachee Singh
+2. Emaad Ahmed Manzoor
 
 
 # Other Resources
